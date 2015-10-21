@@ -1,6 +1,8 @@
 
 > #Flip and Click Examples by [MikroElektronika](http://www.mikroe.com)
 >----------
+
+
 ## Fartalyzer ##
 This example works on the premise that you are wanting to measure the following readings:
 
