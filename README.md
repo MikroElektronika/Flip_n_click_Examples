@@ -1,2 +1,5 @@
-# Flip_n_Click_Examples
-Examples for the Due compatible Flip and Click Board
+# Flip_n_Click Examples
+
+Examples for the MikroE Flip and Click Board.
+
+## Click board paradise
