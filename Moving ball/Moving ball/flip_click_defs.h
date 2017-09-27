@@ -49,8 +49,8 @@
 #define B_INT  27
 #define B_RX   15
 #define B_TX   14
-#define B_I2C1_SCL 21
-#define B_I2C1_SDA 20
+#define B_I2C1_SCL 71
+#define B_I2C1_SDA 70
 
 /***************
  *** Click A ***
@@ -66,9 +66,7 @@
 #define A_INT  26
 #define A_RX   15
 #define A_TX   14
-#define A_I2C1_SCL 21
-#define A_I2C1_SDA 20
+#define A_I2C1_SCL 71
+#define A_I2C1_SDA 70
 
 #endif
-
-
